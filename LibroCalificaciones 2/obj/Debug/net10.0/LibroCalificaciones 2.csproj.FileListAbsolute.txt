@@ -1,0 +1,14 @@
+C:\Users\norwi\source\repos\LibroCalificaciones 2\bin\Debug\net10.0\LibroCalificaciones 2.exe
+C:\Users\norwi\source\repos\LibroCalificaciones 2\bin\Debug\net10.0\LibroCalificaciones 2.deps.json
+C:\Users\norwi\source\repos\LibroCalificaciones 2\bin\Debug\net10.0\LibroCalificaciones 2.runtimeconfig.json
+C:\Users\norwi\source\repos\LibroCalificaciones 2\bin\Debug\net10.0\LibroCalificaciones 2.dll
+C:\Users\norwi\source\repos\LibroCalificaciones 2\bin\Debug\net10.0\LibroCalificaciones 2.pdb
+C:\Users\norwi\source\repos\LibroCalificaciones 2\obj\Debug\net10.0\LibroCalificaciones 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norwi\source\repos\LibroCalificaciones 2\obj\Debug\net10.0\LibroCalificaciones 2.AssemblyInfoInputs.cache
+C:\Users\norwi\source\repos\LibroCalificaciones 2\obj\Debug\net10.0\LibroCalificaciones 2.AssemblyInfo.cs
+C:\Users\norwi\source\repos\LibroCalificaciones 2\obj\Debug\net10.0\LibroCalificaciones 2.csproj.CoreCompileInputs.cache
+C:\Users\norwi\source\repos\LibroCalificaciones 2\obj\Debug\net10.0\LibroCalificaciones 2.dll
+C:\Users\norwi\source\repos\LibroCalificaciones 2\obj\Debug\net10.0\refint\LibroCalificaciones 2.dll
+C:\Users\norwi\source\repos\LibroCalificaciones 2\obj\Debug\net10.0\LibroCalificaciones 2.pdb
+C:\Users\norwi\source\repos\LibroCalificaciones 2\obj\Debug\net10.0\LibroCalificaciones 2.genruntimeconfig.cache
+C:\Users\norwi\source\repos\LibroCalificaciones 2\obj\Debug\net10.0\ref\LibroCalificaciones 2.dll
